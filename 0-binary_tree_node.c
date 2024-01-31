@@ -1,7 +1,4 @@
 #include "binary_trees.h"
-#include <stdlib.h>
-#include <stddef.h>
-#include <stdio.h>
 
 /**
  * binary_tree_node - creates a binary tree node
